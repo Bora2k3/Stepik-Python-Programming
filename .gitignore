@@ -1,3 +1,4 @@
 # Ignore .idea/*
 .idea/*
 Untitled.ipynb
+.ipynb_checkpoints/*
